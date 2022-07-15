@@ -166,7 +166,7 @@
     "item.forbidden_arcanus.stellarite_piece": "Stellarite Piece",
     "item.forbidden_arcanus.arcane_gold_ingot": "Arcane Gold Ingot",
     "item.forbidden_arcanus.arcane_gold_nugget": "Arcane Gold Nugget",
-    "item.forbidden_arcanus.xpetrified_orb": "Xpetrified Orb",
+    "item.forbidden_arcanus.xpetrified_orb": "Orbe Xpetrifiée",
     "item.forbidden_arcanus.eternal_stella": "Eternal Stella",
     "item.forbidden_arcanus.orb_of_temporary_flight": "Orbe de vol temporaire",
     "item.forbidden_arcanus.spectral_eye_amulet": "Amulette d'oeil spectral",
@@ -308,18 +308,18 @@
 
     "containers": "Containers",
     "container.dark_beacon": "Dark Beacon",
-    "container.forbidden_arcanus.hephaestus_forge": "Hephaestus Forge",
+    "container.forbidden_arcanus.hephaestus_forge": "Forge d'Héphaïstos",
     "container.forbidden_arcanus.clibano": "Clibano",
 
     "enchantments": "Enchantments",
     "enchantment.forbidden_arcanus.permafrost": "Permafrost",
     "enchantment.forbidden_arcanus.indestructible": "Indestructible",
 
-    "comment.enchantment.descriptions": "---Enchantment Descriptions---",
+    "comment.enchantment.descriptions": "---Enchantements Descriptions---",
     "enchantment.forbidden_arcanus.permafrost.desc": "Allows an Edelwood Bucket to safely carry lava.",
 
-    "modifier.forbidden_arcanus.eternal": "Eternal",
-    "modifier.forbidden_arcanus.fiery": "Fiery",
+    "modifier.forbidden_arcanus.eternal": "Éternel",
+    "modifier.forbidden_arcanus.fiery": "Ardent",
 
     "forbiddenmicon": "Forbiddenmicon",
     "forbiddenmicon.category.main": "Principal",
